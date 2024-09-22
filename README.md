@@ -40,11 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshimwePatience&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🌟 Projects
-
-- [Project 1]: Brief description
-- [Project 2]: Brief description
-- [Project 3]: Brief description
 
 ## 🎯 Future Goals
 
