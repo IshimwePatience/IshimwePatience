@@ -1,32 +1,62 @@
-# Hi there, I'm [ISHIMWE Patience] 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</h1>
 
-## About Me
-- 🎓 Currently studying at AUCA (Adventist Universtity Of Central Africa)
-- 🎵 Fun fact: I'm also a musician!
-- 💻 Passionate about [your main interests in tech/programming]
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+ISHIMWE+Patience;Software+Engineering+Student;Aspiring+Software+Developer;Musician;&center=true&width=380&height=45"></a>
+</p>
 
-## What I'm up to
-- 🌱 I'm currently learning [specific technologies or subjects you're focusing on]
-- 🔭 I'm working on [any current projects or goals]
-- 👯 I'm looking to collaborate on [types of projects you're interested in]
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishimwe-patience-514451230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ishimwepatience102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://youtube.com/@augstinishimwe9422"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 
-## Skills
-- [List your top programming languages]
-- [List any frameworks or tools you're proficient in]
-- [Any other relevant skills]
+## 👨‍💻 About Me
 
-## Connect with me
-- 📫 How to reach me: [ishimwepatience102@gmail.com]
-- 💼 [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/ishimwe-patience-514451230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- 🐦 [Twitter](your-twitter-url)
-- 🎵 [SoundCloud/Spotify/etc.]([your-music-platform-url](https://youtube.com/@augstinishimwe9422?si=rX0_MEjdiuK9I9cR))
+- 🎓 Software Engineering student at **Adventist University Of Central Africa (AUCA)**
+- 💻 Passionate about creating efficient and innovative software solutions
+- 🌱 Currently focusing on expanding my skills in software design and development
+- 🎵 Fun fact: I'm also a musician! Check out my YouTube channel
+- 💡 Always excited to work on challenging projects and collaborate with fellow developers
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IshimwePatience&show_icons=true&theme=radical)
+## 🛠️ My Skills
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshimwePatience&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IshimwePatience&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshimwePatience&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🌟 Projects
+
+- [Project 1]: Brief description
+- [Project 2]: Brief description
+- [Project 3]: Brief description
+
+## 🎯 Future Goals
+
+- Develop expertise in software architecture and design patterns
+- Contribute to open-source projects in the software engineering domain
+- Create innovative software solutions that merge technology and music
+- Pursue internships or collaborative projects to gain hands-on industry experience
 
 ---
 
-⭐️ From [IshimwePatience](https://github.com/IshimwePatience)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IshimwePatience&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">⭐️ From [IshimwePatience](https://github.com/IshimwePatience)</p>
